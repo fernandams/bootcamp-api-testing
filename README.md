@@ -64,4 +64,4 @@ O bootcamp "API do Zero ao Full" ocorreu nos dias 04/06/2024 e 05/06/2024 e teve
 Após o evento, revisei as aulas e pratiquei os conceitos aprendidos, subindo os códigos ao GitHub para reforçar meu entendimento e aprimorar meu portfólio.
 
 ### 📬 Contato
-Para mais informações, você pode entrar em contato comigo através do [meu perfil no LinkedIn](https://www.linkedin.com/in/fernandamacedodesousa/).
+Para mais informações, você pode entrar em contato comigo através do [meu perfil no LinkedIn](https://www.linkedin.com/in/qafernandacabral/).
